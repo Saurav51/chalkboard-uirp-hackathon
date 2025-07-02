@@ -30,7 +30,19 @@
 - Drag-and-drop calendar lets you **build your week** visually  
 - Automatic **time conflict detection**  
 - Instantly switch between multiple instructors/sections  
-- See additional **instructor insights** and **historical GPA data** for each lecture slot  
+- See additional **instructor insights** and **historical GPA data** for each lecture slot
+
+🧠 Schedule Score
+A synthetic score designed to help you evaluate the quality of your selected schedule, based on:
+
+- 📊 Historical Student Performance
+Courses where students have historically performed better (e.g., higher GPA averages) receive higher scores.
+
+- 👨‍🏫 Instructor Experience & Ratings
+Instructors with strong teaching reputations and consistent student outcomes boost the score.
+
+- ⏰ Class Timing Sensibility
+Time slots that align with typical peak focus hours (e.g., mid-morning to early afternoon) contribute positively, while early morning or late evening classes may reduce it.
 
 ### 💬 Unified, Interactive Experience
 - Clean tabbed layout for switching between:

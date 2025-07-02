@@ -32,8 +32,8 @@
 - Instantly switch between multiple instructors/sections  
 - See additional **instructor insights** and **historical GPA data** for each lecture slot
 
-🧠 Schedule Score
-A synthetic score designed to help you evaluate the quality of your selected schedule, based on:
+### 🧠 Schedule Score
+- A synthetic score designed to help you evaluate the quality of your selected schedule, based on:
 
 - 📊 Historical Student Performance
 Courses where students have historically performed better (e.g., higher GPA averages) receive higher scores.
